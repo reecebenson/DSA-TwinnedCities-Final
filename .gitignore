@@ -1,0 +1,14 @@
+ # Configuration File
+#configuration.php
+
+# Ignore anything within .vscode
+.vscode/*
+sftp.json
+
+# Ignored folders
+**/_ignore
+
+# History Folder
+**/.history
+
+.DS_Store
